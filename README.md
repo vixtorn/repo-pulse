@@ -6,7 +6,7 @@ Users can search for any public GitHub profile and view a clean summary of repos
 
 ## Live Demo
 
-Coming soon
+(https://repo-pulse-rosy.vercel.app/)
 
 ## Features
 
