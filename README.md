@@ -25,7 +25,7 @@ Users can search for any public GitHub profile and view a clean summary of repos
 * GitHub REST API
 * CSS
 
-## Installation
+## Installation instructures
 
 ```bash
 npm install
